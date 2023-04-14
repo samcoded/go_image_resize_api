@@ -1,1 +1,1 @@
-web: go_image_resize_api
+web: bin/go_image_resize_api
