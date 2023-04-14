@@ -28,6 +28,6 @@ go run main.go
 
 ## LIVE DEMO
 
-(https://imgrsv.herokuapp.com/)
+https://imgrsv.herokuapp.com/
 
-(https://imgrsv.herokuapp.com/images?url=https://www.naijaloaded.com.ng/wp-content/uploads/2023/01/wizkidd.jpg&w=400&h=400)
+https://imgrsv.herokuapp.com/images?url=https://www.naijaloaded.com.ng/wp-content/uploads/2023/01/wizkidd.jpg&w=400&h=400
