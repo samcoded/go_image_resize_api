@@ -9,7 +9,16 @@ Web API to resive images by passing image url, desired width and height. Returns
 
 ## Dependencies
 
-`go install `
+`
+
+Download latest packages
+
+go mod tidy
+
+Try on localhost
+
+go run main.go
+`
 
 ## How it works
 
