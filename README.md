@@ -11,11 +11,7 @@ Web API to resive images by passing image url, desired width and height. Returns
 
 ```
 
-Download latest packages
-
 go mod tidy
-
-Try on localhost
 
 go run main.go
 ```
