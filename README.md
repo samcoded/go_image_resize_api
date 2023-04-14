@@ -7,6 +7,10 @@ Web API to resive images by passing image url, desired width and height. Returns
 -   GO
 -   Gin (Web server)
 
+## Dependencies
+
+`go install `
+
 ## How it works
 
 `images?url=[IMAGE_URL]&w=[IMAGE_WIDTH]&h=[IMAGE_HEIGHT]`
