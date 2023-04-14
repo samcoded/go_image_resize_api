@@ -20,6 +20,7 @@ func init() {
 
 func main() {
 	r := gin.Default()
+	r.GET("/", controllers.Home)
 	r.GET("/images", controllers.ImagesResize)
 	r.Run() // listen and serve
 }

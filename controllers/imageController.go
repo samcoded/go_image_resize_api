@@ -5,6 +5,12 @@ import (
 	"github.com/samcoded/go_image_resize_api/utils"
 )
 
+func Home(c *gin.Context) {
+	c.JSON(200, gin.H{
+		"message": "Welcome to image resize api",
+	})
+}
+
 func ImagesResize(c *gin.Context) {
 	url := c.Query("url")
 	width := c.Query("w")
