@@ -25,3 +25,9 @@ go run main.go
 `images?url=[IMAGE_URL]&w=[IMAGE_WIDTH]&h=[IMAGE_HEIGHT]`
 
 `images?url=http://website.com/image.jpg&w=1100&h=1100`
+
+## LIVE DEMO
+
+`https://imgrsv.herokuapp.com/`
+
+`https://imgrsv.herokuapp.com/images?url=https://www.naijaloaded.com.ng/wp-content/uploads/2023/01/wizkidd.jpg&w=400&h=400`
